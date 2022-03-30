@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-↑ [к оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление)
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление) ↑
 
 
 ### Какой кейс решаем?
@@ -27,24 +27,24 @@
 **Что практикуем?**
 - Учимся писать хороший код на Python
 
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление)
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление) ↑
 
 
 ### Краткая информация о данных
 •••\
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление)
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление) ↑
 
 
 ### Этапы работы над проектом
 •••\
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление)
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление) ↑
 
 
 ### Результат
 •••\
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление)
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление) ↑
 
 
 ### Вывод
 •••\
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление)
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление) ↑
