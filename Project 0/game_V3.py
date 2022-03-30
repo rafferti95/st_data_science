@@ -11,12 +11,13 @@ def random_predict(number:int=1) -> int:
     """
 
     count = 0
-    left_border = 1 #Левая граница области предсказания
-    right_border = 101 #Правая граница области предсказания
+    left_border = 1 # Левая граница области предсказания
+    right_border = 101 # Правая граница области предсказания
 
     while True:
         count += 1
         predict_number = np.random.randint(left_border, right_border) # Предполагаемое число
+        # Корректировка границ отгадывания
         if predict_number < number:
             left_border = predict_number 
         elif predict_number > number:
