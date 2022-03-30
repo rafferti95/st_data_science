@@ -22,7 +22,7 @@ def random_predict(number:int=1) -> int:
             left_border = predict_number 
         elif predict_number > number:
             right_border = predict_number
-        if number == predict_number:
+        if number == predict_number: # Условие выхода из цикла
             break 
     return(count)
 
