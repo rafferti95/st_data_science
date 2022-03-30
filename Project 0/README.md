@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-↑ [к оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project 0#оглавление)
+↑ [к оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project0#оглавление)
 
 
 ### Какой кейс решаем?
