@@ -1,8 +1,8 @@
 # Проект 0. Угадай число
 
 ## Оглавление 
-[1. Описание проекта]()\
-[2. Какой кейс решаем?]()\
+[1. Описание проекта](https://github.com/rafferti95/st_data_science/tree/master/Project%200#описание-проекта)\
+[2. Какой кейс решаем?](https://github.com/rafferti95/st_data_science/tree/master/Project%200#какой-кейс-решаем)\
 [3. Краткая информация о данных]()\
 [4. Этапы работы над проектом]()\
 [5. Результат]()\
@@ -11,7 +11,7 @@
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-↑ [к оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project-0/README.md#Оглавление)
+↑ [к оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление)
 
 
 ### Какой кейс решаем?
