@@ -3,10 +3,10 @@
 ## Оглавление 
 [1. Описание проекта](https://github.com/rafferti95/st_data_science/tree/master/Project%200#описание-проекта)\
 [2. Какой кейс решаем?](https://github.com/rafferti95/st_data_science/tree/master/Project%200#какой-кейс-решаем)\
-[3. Краткая информация о данных]()\
-[4. Этапы работы над проектом]()\
-[5. Результат]()\
-[6. Выводы]()
+[3. Краткая информация о данных](https://github.com/rafferti95/st_data_science/tree/master/Project%200#краткая-информация-о-данных)\
+[4. Этапы работы над проектом](https://github.com/rafferti95/st_data_science/tree/master/Project%200#этапы-работы-над-проектом)\
+[5. Результат](https://github.com/rafferti95/st_data_science/tree/master/Project%200#результат)\
+[6. Выводы](https://github.com/rafferti95/st_data_science/tree/master/Project%200#вывод)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
