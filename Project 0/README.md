@@ -48,3 +48,4 @@
 ### Вывод
 Поставленная задача была решена успешно - достигно сокращение попыток подбора загаданного числа. \
 ↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%200#оглавление) ↑
+→ [Ссылка на проект](https://github.com/rafferti95/st_data_science/blob/master/Project%200/game_V3.py) ←
