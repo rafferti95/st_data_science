@@ -26,12 +26,12 @@
 **Что практикуем?**
 * Учимся применять на практике полученные данные по обработке данных и построению графиков.
 
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%201#оглавление) ↑
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%202#оглавление) ↑
 
 
 ### Краткая информация о данных
 Исходные данные представляют собой базу данных из 44.744 резюме с 12 признаками, выгруженных с сайта поиска вакансий *hh.ru*.\
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%201#оглавление) ↑
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%202#оглавление) ↑
 
 
 ### Этапы работы над проектом
@@ -49,17 +49,17 @@
 * Очистка данных:
     - удаление дубликатов и выбросов.
 
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%201#оглавление) ↑
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%202#оглавление) ↑
 
 
 ### Результат
 В результате преобразований исходных данных, была получена база данных резюме, с более информативными признаками. Данные были очищены от выбросов и дубликатов данными. Были получены первичные зависимости, отображающие взаимосвязь признаков.\
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%201#оглавление) ↑
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%202#оглавление) ↑
 
 
 ### Вывод
 Преобразование исходных данных и получение первичных зависимостей - неотъемлемая часть любого DataScience-проекта. Так как любая статистическая выборка не лишена выбросов, ошибок заполнения и пропусков. Поэтому аналитика данных, а именно преобразование данных, их исследование и очистка - есть главные шаг при построении наиболее правильных предиктивных моделей машинного обучения.\
-↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%201#оглавление) ↑
+↑ [К оглавлению](https://github.com/rafferti95/st_data_science/tree/master/Project%202#оглавление) ↑
 
 
-→ [Ссылка на проект](https://github.com/rafferti95/st_data_science/blob/master/Project%201/Project%201.ipynb) ←
+→ [Ссылка на проект](https://github.com/rafferti95/st_data_science/blob/master/Project%202/Project%202.ipynb) ←
